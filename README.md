@@ -1,4 +1,4 @@
-# Laravel 10 從任何來源以記憶體高效方式讀取大尺寸的 JavaScript Object Notation (JSON)
+# Laravel 11 從任何來源以記憶體高效方式讀取大尺寸的 JavaScript Object Notation (JSON)
 
 引入 cerbero 的 json-parser 套件來擴增從任何來源以記憶體高效方式讀取大尺寸的 JavaScript Object Notation (JSON)，JSON 文件廣泛用於線上資料交換，尤其是以具象狀態傳輸為基礎的網頁服務出現後，更是如此。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/4Y7Lekm.png)
+![](https://i.imgur.com/MogmDcH.png)
 > JSON 可維護階層式結構，因此更易於將相關資料保存在單一文件中，並呈現複雜的關聯性
